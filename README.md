@@ -16,4 +16,13 @@
 ![image](https://user-images.githubusercontent.com/115534128/196784442-b4570ec6-ca5f-4d95-a653-de56111d802d.png)
 
 
-
+<ul>
+  <li><strong>git status</strong>->to see your modified changes</li>
+  <li><strong>git add FileNames or . for all</strong>->stage your changes</li>
+  <li><strong>git commit -m "message here"</strong>->to save your changes into the repository</li>
+  <li><strong>git checkout branchname</strong>->Creating new branch</li>
+  <li><strong>git branch</strong>->To show current branches</li>
+  <li><strong>git diff branchA branchB</strong>->To check differences between branches</li>
+  <li><strong>git branch</strong>->To show current branches</li>
+  <li><strong>git branch</strong>->To show current branches</li>
+</ul>
