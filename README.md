@@ -2,7 +2,7 @@
 
 <h4>I want to teach you how to connect your repositry from github to your local storage.</h4>
 
-<h4>These are the steps.</h4>
+<h4>These are the following steps.</h4>
 
 <h4>* First you need to clone your repository to you local storage by copying the url code to your repository</h4>
 
@@ -15,6 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/115534128/196784442-b4570ec6-ca5f-4d95-a653-de56111d802d.png)
 
+<hr>
 <h4>* Here's some list commands that you can use</h4>
 <br>
 <ul>
@@ -27,7 +28,7 @@
   <li><strong>git branch -r</strong>->To all branches</li>
   <li><strong>git branch -D branchName</strong>->delete local branch</li>
   <li><strong>git push origin --delete branchName</strong>->delete remote branch to your repository</li>
-  <li><strong>git merge branchA branchB</strong>->merging branches</li>
-  <li><strong></strong>-></li>
-  <li><strong></strong>-></li>
+  <li><strong>git merge branchA branchB</strong>->merging branches</li> 
 </ul>
+<hr>
+<h4>* To merge your branch to master you must select the master branch then type git merge branchname</h4>
