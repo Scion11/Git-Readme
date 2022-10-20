@@ -32,3 +32,5 @@
 </ul>
 <hr>
 <h4>* To merge your branch to master you must select the master branch then type git merge branchname</h4>
+<p>Always remember create always a new branch when you will work at repository. branch is represent of a clone of your file that will not affect the original file.
+that's all thank you!</p>
